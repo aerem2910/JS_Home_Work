@@ -1,0 +1,13 @@
+{
+  "name": "my_server",
+  "version": "0.0.0",
+  "description": "My_Server",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  },
+  "eslintConfig": {}
+}
